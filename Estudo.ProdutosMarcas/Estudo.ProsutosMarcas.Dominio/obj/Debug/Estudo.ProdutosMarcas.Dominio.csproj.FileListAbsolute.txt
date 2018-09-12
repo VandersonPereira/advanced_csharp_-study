@@ -1,0 +1,12 @@
+C:\Users\vanderson.pereira\source\repos\Estudo.ProsutosMarcas\Estudo.ProsutosMarcas.Dominio\bin\Debug\Estudo.ProsutosMarcas.Dominio.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.ProsutosMarcas\Estudo.ProsutosMarcas.Dominio\bin\Debug\Estudo.ProsutosMarcas.Dominio.pdb
+C:\Users\vanderson.pereira\source\repos\Estudo.ProsutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProdutosMarcas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.ProsutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProsutosMarcas.Dominio.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.ProsutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProsutosMarcas.Dominio.pdb
+C:\Users\vanderson.pereira\source\repos\Estudo.ProsutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProdutosMarcas.Dominio.csprojAssemblyReference.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.ProdutosMarcas\Estudo.ProsutosMarcas.Dominio\bin\Debug\Estudo.ProsutosMarcas.Dominio.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.ProdutosMarcas\Estudo.ProsutosMarcas.Dominio\bin\Debug\Estudo.ProsutosMarcas.Dominio.pdb
+C:\Users\vanderson.pereira\source\repos\Estudo.ProdutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProdutosMarcas.Dominio.csprojAssemblyReference.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.ProdutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProdutosMarcas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\vanderson.pereira\source\repos\Estudo.ProdutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProsutosMarcas.Dominio.dll
+C:\Users\vanderson.pereira\source\repos\Estudo.ProdutosMarcas\Estudo.ProsutosMarcas.Dominio\obj\Debug\Estudo.ProsutosMarcas.Dominio.pdb
